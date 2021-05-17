@@ -132,6 +132,8 @@ http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-04-03-092028.jpg",Astro SuperSport 4
 http://starshare.live:8080/live/arfat/arfat/5483.ts
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="",BEIN SPORT HD 1
+https://cdn-service-hd.livestream-cdn.com/iptv/hd-bein1.stream/chunks.m3u8?st=2aswqfpMecCPqYrRnSXJsQ&e=1621249773&edge=1
+#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="",BEIN SPORT HD 1
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="",BEIN SPORT HD 2
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
@@ -345,14 +347,16 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-103156.jpg",FOX​ MOVIE​
-https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-103156.jpg",FOX​ MOVIE​PRIMIUM
+https://cdn-service-hd.livestream-cdn.com/iptv/hd-foxpremium.stream/chunks.m3u8?st=sqfPeNrI9it0mcHxzB22pQ&e=1621249981&edge=1
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-103156.jpg",FOX​ MOVIE​
 https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075841.jpg",Fox Thai
 https://smart-tv.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075841.jpg",Fox Thai
 https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action
+https://cdn-service-hd.livestream-cdn.com/iptv/hd-foxaction.stream/chunks.m3u8?st=w2sZDsbSx-B_AOdicwL3ow&e=1621250032&edge=1
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action
 https://mediasv.online/tvchannel_x1/foxactionmovie/playlist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fox-life.png",FOX Life
