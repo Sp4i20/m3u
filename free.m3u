@@ -136,11 +136,15 @@ https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="",BEIN SPORT HD 2
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
 #EXTINF:-1  tvg-id="TH - TR PF HD1" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD1
+https://cdn-service-hd.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8?st=bpraIUymf-fwl3w1nOfVEw&e=1621247153&edge=1
+#EXTINF:-1  tvg-id="TH - TR PF HD1" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1  tvg-id="TH - TR PF HD1" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD1
 http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1  tvg-id="TH - TR PF HD1" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075334.jpg",Premier HD1
 https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1  tvg-id="TH - TR PF HD2" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075352.jpg",Premier HD2
+https://cdn-service-hd.livestream-cdn.com/iptv/epl-2.stream/chunks.m3u8?st=V-B8QsxTCsL1iAgKXf9C1g&e=1621248555&edge=1
 #EXTINF:-1  tvg-id="TH - TR PF HD2" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075352.jpg",Premier HD2
 http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1  tvg-id="TH - TR PF HD2" group-title="Sports" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075352.jpg",Premier HD2
@@ -185,6 +189,8 @@ https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1  tvg-id="TH - FSPHD" group-title="Sports" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602703682.jpeg",FOX​ Sports​ HD
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1  tvg-id="FOX Sports" group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",Fox Sports 1
+https://cdn-service-hd.livestream-cdn.com/iptv/hd-foxsports1.stream/chunks.m3u8?st=a5COYu2p9RiObbjws7FKFQ&e=1621248674&edge=1
 #EXTINF:-1  tvg-id="FOX Sports" group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/hd-foxsports1.png",Fox Sports 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1  tvg-id="FOX Sports 2" group-title="Sports" tvg-logo="https://center.beinsport.biz//assets/images/channel_new_mini/sd-foxsports2.png",Fox Sports 2
