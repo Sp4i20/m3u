@@ -44,3 +44,12 @@ https://fw4free.inwstream.com/fw4free/ch4.stream/chunklist.m3u8
 #EXTINF:-1 group-title=" 2️⃣ fw4free" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-5.png",EPL-5 fw4free
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch5.stream/chunklist.m3u8
+#EXTINF:-1 group-title=" 2️⃣ fw4free" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",beIN-1 fw4free
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/bein1.stream/playlist.m3u8
+#EXTINF:-1 group-title=" 2️⃣ fw4free" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",beIN-2 fw4free
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/bein2.stream/playlist.m3u8
+#EXTINF:-1 group-title=" 2️⃣ fw4free" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",bwIN-3 fw4free
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://fw4free.inwstream.com/fw4free/bein3.stream/playlist.m3u8
