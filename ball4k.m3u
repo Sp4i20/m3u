@@ -15,6 +15,8 @@ https://stream1.freetv.fun/eleven-sports-1-4k-1.ctv
 http://doubleclicktv.live/70376812/52663544/620667
 #EXTINF:-1 group-title=" 1️⃣ Ball 4K" tvg-id="BeinSportXtraEspaña" tvg-name="BeinSportXtraÑ" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/thumbnail.jpg", beIN Sports Xtra Ñ
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title=" 1️⃣ Ball 4K" tvg-id="fwsport" tvg-name="fwsport" tvg-logo="https://img.inwiptv.net/postor/20240429213640FWsport.jpg", fwsport
+https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/chunks.m3u8
 #EXTINF:-1 group-title=" 2️⃣ fw4free" tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png",EPL-1 fw4free
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
