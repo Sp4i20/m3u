@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="กีฬา 4K" tvg-id="10031" tvg-name="4k1" tvg-logo="https://i.ibb.co/pjQFsZD9/true4k.png",PlayID1
+#EXTINF:-1 group-title="Ball 4K" tvg-id="10031" tvg-name="4k" tvg-logo="https://i.ibb.co/pjQFsZD9/true4k.png",PlayID1
 http://playid.ddnsgeek.com:8080/live/Natt/12345/89.m3u8
-#EXTINF:-1 group-title="กีฬา 4K" tvg-id="10031" tvg-name="4k2" tvg-logo="https://i.ibb.co/pjQFsZD9/true4k.png",PlayID2
+#EXTINF:-1 group-title="Ball 4K" tvg-id="10031" tvg-name="4k" tvg-logo="https://i.ibb.co/pjQFsZD9/true4k.png",True Premier 1
 http://playid.ddnsgeek.com:8080/live/Natt/12345/90.m3u8
-#EXTINF:-1 group-title="กีฬา 4K" tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png",UK: Sky Sports Premier League FHD 1
+#EXTINF:-1 group-title="Ball 4K" tvg-id="10031" tvg-name="4k" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png",UK: Sky Sports Premier League FHD 1
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/9334/manifest.mpd
-#EXTINF:-1 group-title="กีฬา 4K" tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png",UK: Sky Sports Premier League FHD 2
+#EXTINF:-1 group-title="Ball 4K" tvg-id="10031" tvg-name="4k" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png",UK: Sky Sports Premier League FHD 2
 http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/manifest.mpd
-#EXTINF:-1 group-title="กีฬา 4K" tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png",Eleven Sports 1 4K
+#EXTINF:-1 group-title="Ball 4K" tvg-id="10031" tvg-name="4k" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png",Eleven Sports 1 4K
 https://stream1.freetv.fun/eleven-sports-1-4k-1.ctv
-#EXTINF:-1 group-title="กีฬา 4K" tvg-id="10031" tvg-name="英超-1" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png",Sky Sports Main Event 4K
+#EXTINF:-1 group-title="Ball 4K" tvg-id="10031" tvg-name="4k" tvg-logo="https://gitee.com/ttxsxs/home-tv/raw/master/tvicon/SliveYC.png",Sky Sports Main Event 4K
 http://doubleclicktv.live/70376812/52663544/620667
-#EXTINF:-1 group-title="กีฬา 4K" tvg-id="BeinSportXtraEspaña" tvg-name="BeinSportXtraÑ" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/thumbnail.jpg", beIN Sports Xtra Ñ
+#EXTINF:-1 group-title="Ball 4K" tvg-id="BeinSportXtraEspaña" tvg-name="BeinSportXtraÑ" tvg-logo="https://images.pluto.tv/channels/60492fdd9989d30007ccd30a/thumbnail.jpg", beIN Sports Xtra Ñ
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
