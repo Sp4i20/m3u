@@ -3,7 +3,11 @@
 #EXTINF:-1  tvg-id="MonoMax Sports" group-title="MonoMax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhwCkiStDcZU4KbFreFFtdDux_5yrPZ97GQ&s",MonoMax
 https://dookeela.live/live-tv/dklsport1
 
+#EXTINF:-1  tvg-id="MonoMax 1" group-title="MonoMax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhwCkiStDcZU4KbFreFFtdDux_5yrPZ97GQ&s",MonoMax 1
+https://dookeela.live/live-tv/monomax1
 
+#EXTINF:-1  tvg-id="MonoMax Sports" group-title="MonoMax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhwCkiStDcZU4KbFreFFtdDux_5yrPZ97GQ&s",MonoMax
+https://dookeela.live/live-tv/dklsport1
 { 
 "name": "🍀MonoMax[PL]🍀", 
 "author": "ฟรีไม่ได้มีไว้ขาย", 
