@@ -1,8 +1,47 @@
-#EXTM3U {name:"IPTV",info:"",image:"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",url:""}, 
+#EXTM3U
 
-#EXTINF:-1  tvg-id="MonoMax Sports" group-title="MonoMax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhwCkiStDcZU4KbFreFFtdDux_5yrPZ97GQ&s",MonoMax
+#EXTINF:-1 group-title="MonoMax" tvg-logo="https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",MonoMax Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live/
 https://dookeela.live/live-tv/dklsport1
 
-#EXTINF:-1  tvg-id="MonoMax 1" group-title="MonoMax" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIhwCkiStDcZU4KbFreFFtdDux_5yrPZ97GQ&s",MonoMax 1
+#EXTINF:-1 group-title="MonoMax" tvg-logo="https://dookeela.live/uploads/1753517049.png",MonoMax 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live/
 https://dookeela.live/live-tv/monomax1
 
+#EXTINF:-1 group-title="MonoMax" tvg-logo="https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",Monomax Sport-3
+#EXTVLCOPT:http-referrer=https://www.andaman888th.net/
+https://cdnsv1.bunnycdncloud.com/andaman888th/dxsport1/th-sport/dxsport1/chunks.m3u8?nimblesessionid=25585411
+
+#EXTINF:-1 group-title="MonoMax" tvg-logo="https://dookeela.live/uploads/1753517049.png",MonoMax 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://dookeela.live/live-tv/monomax2
+
+#EXTINF:-1 group-title="MonoMax" tvg-logo="https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",Monomax Sport-1
+#EXTVLCOPT:http-referrer=https://fw4free.com/
+https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=
+
+#EXTINF:-1 group-title="MonoMax" tvg-logo="https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",Monomax Sport-2
+https://slave02.appball.vip/hls/ch11.m3u8
+
+#EXTINF:-1 group-title="MonoMax" tvg-logo="https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",Monomax Sport-4
+#EXTVLCOPT:http-referrer=https://footballsod.live/
+https://cdn1.googlecdn.live/4k/dklsport1/chunks.m3u8
+
+#EXTINF:-1 group-title="MonoMax" tvg-logo="https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",Monomax Sport-5
+https://168dooball.net/live-stream/?mode=ball&ch=monomax1
+
+#EXTINF:-1 group-title="MonoMax" tvg-logo="https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",Monomax Sport-6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://www.ball24.tv/allchannel/?id=monomax1
+
+#EXTINF:-1 group-title="MonoMax" tvg-logo="https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",Monomax Sport-7
+https://www.ball24.tv/allchannel/?id=monomax2
+
+#EXTINF:-1 group-title="MonoMax" tvg-logo="https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",Monomax Sport-8
+https://168dooball.net/live-stream/?mode=ball&ch=monomax2
+
+#EXTINF:-1 group-title="MonoMax" tvg-logo="https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",Monomax Sport-8 (Alt)
+https://r3-sn-5fo-c37ed15.googleuservideo.com/168db_e1/monomax3_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjUgNjo0MzowNiBQTSZoYXNoX3ZhbHVlPWttNmwvVnVwcEhHTzNZa3VIcGtOa1E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMiZpZD1iZ2hyNzY3MDc5
