@@ -1,127 +1,132 @@
-{
-"name": "MonoMax Sports",
-"author": "",
-"image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
-"url": "",
+{"name": "Football","author": "VIP","image": "https://img5.pic.in.th/file/secure-sv1/SportFootball.png","groups": [
 
-"stations":  [
+{"name": "Monomax","author": "VIP","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0","stations": [
 
 
-{ "name": "MonoMax Sports",
- "image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
- "url": "https://dookeela.live/live-tv/dklsport1",
- "referer": "https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" }, 
 
-{ "name": "MonoMax 1",
- "image": "https://dookeela.live/uploads/1753517049.png", "url": "https://dookeela.live/live-tv/monomax1",
- "referer": "https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" },
+{"name": "Max 1A","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://cdn2.aws-live-streaming.com/lsmscore/monomax1/chunks.m3u8", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
+{"name": "Max 1B","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://fw4free.inwstream.com/fw4free/ch1.stream/playlist.m3u8", "referer": "https://fw4free.com/","info":"","playInNatPlayer": "true"},
 
-{"name":"Monomax Sport-3",
- "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", 
-"url": "https://cdnsv1.bunnycdncloud.com/andaman888th/dxsport1/th-sport/dxsport1/chunks.m3u8?nimblesessionid=25585411", 
-"referer": "https://www.andaman888th.net/",
- "playInNatPlayer":"true"},
+{"name":"Max 1C", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw", "url": "https://168dooball.net/live-stream/?mode=ball&ch=monomax1", "playInNatPlayer":"true"},
 
-{ "name": "MonoMax 1",
- "image": "https://dookeela.live/uploads/1753517049.png", 
-"url": "https://dookeela.live/live-tv/monomax1",
- "referer": "https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" },
+{"name":"Max 1D", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw", "url": "https://www.ball24.tv/allchannel/?id=monomax1", "playInNatPlayer":"true"},
+{"name":"Max 1E", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw", "url": "https://www.ball24.tv/allchannel/?id=monomax1", "userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36", "info": "มือถือ", "playInNatPlayer":"true"}, 
+{"name": "Max 1F","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://www.ball24.tv/allchannel/?id=monomax1", "referer": "https://www.ball24.tv/","info":"","playInNatPlayer": "true"},
 
 
-{ "name": "MonoMax 2", 
-"image": "https://dookeela.live/uploads/1753517049.png", 
-"url": "https://dookeela.live/live-tv/monomax2", 
-"referer": "https://dookeela.live/", 
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" },
+{"name": "Max 2A","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "http://145.79.8.138:8080/hls/gojeklive3.m3u8
+ ", "referer": "https://99dooball.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
 
-{ "name": "MonoMax 1", 
-"image": "https://dookeela.live/uploads/1753517049.png", 
-"url": "https://168dooball.io/live-stream/?mode=ball&ch=monomax3&lid=1022&mid=155927",
- "referer": "https://168dooball.io/live-stream/?mode=ball&ch=monomax3&lid=1022&mid=155927", 
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" },
+{"name": "Max 2B","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://cdn2.aws-live-streaming.com/lsmscore/monomax-2/playlist.m3u8", "referer": "https://99dooball.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
 
-{"name": "Monomax Sport-1",
-"image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
-"url": "https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=", 
-"referer": "https://fw4free.com/",
-"info":"",
-"playInNatPlayer": "true"},
 
- {"name":"Monomax Sport-2", 
-"image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
- "url": "https://slave02.appball.vip/hls/ch11.m3u8", 
-"playInNatPlayer":"true"}, 
 
- {"name":"Monomax Sport-4", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
- "url": "https://cdn1.googlecdn.live/4k/dklsport1/chunks.m3u8",
- "referer": "https://footballsod.live/", "playInNatPlayer": "true"},
+{"name": "Max 3","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://cdn2.aws-live-streaming.com/lsmscore/monomax-3/playlist.m3u8", "referer": "https://99dooball.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
 
- {"name":"Monomax Sport-5", 
-"image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0",
- "url": "https://168dooball.net/live-stream/?mode=ball&ch=monomax1", 
-"playInNatPlayer":"true"},
+{"name": "Max 3A","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://cdn2.aws-live-streaming.com/lsmscore/ais-monomax-3/chunks.m3u8", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
 
- {"name":"Monomax Sport-6", 
-"image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", 
-"url": "https://www.ball24.tv/allchannel/?id=monomax1", 
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36", 
-"info": "", 
-"playInNatPlayer":"true"},
+{"name":"Max 3B", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw", "url": "https://www.ball24.tv/allchannel/?id=monomax2", "playInNatPlayer":"true"}, 
 
- {"name":"Monomax Sport-7", 
-"image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", 
-"url": "https://www.ball24.tv/allchannel/?id=monomax2", 
-"playInNatPlayer":"true"}, 
+{"name":"Max 3C", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw", "url": "https://168dooball.net/live-stream/?mode=ball&ch=monomax2", "playInNatPlayer":"true"}, 
 
-{"name":"Monomax Sport-8", 
-"image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", 
-"url": "https://168dooball.net/live-stream/?mode=ball&ch=monomax2", "playInNatPlayer":"true"},
- {"name":"Monomax Sport-8", 
-"image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0", 
-"url": "https://r3-sn-5fo-c37ed15.googleuservideo.com/168db_e1/monomax3_480p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zLzIwMjUgNjo0MzowNiBQTSZoYXNoX3ZhbHVlPWttNmwvVnVwcEhHTzNZa3VIcGtOa1E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMiZpZD1iZ2hyNzY3MDc5", 
-"playInNatPlayer":"true"},
+{"name": "Max 4","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://cdn2.aws-live-streaming.com/lsmscore/monomax-4/playlist.m3u8", "referer": "https://99dooball.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
 
- 
-{"name":"SIAMZEED", 
-"image":"https://demo-live.siamzeed.com/images/logo/1c5gKBU7LEiYyyjx6uJpTUloPBnf6v8fulllogo_transparent_nobuffer.png", 
-"url": "https://demo-live.siamzeed.com/e", 
-"referer": "https://demo-live.siamzeed.com/", 
-"imageScale": "fitStart",
-"info":"ตาราง ถ่ายทอดสด",
-"embed":"true"}, 
+{"name": "Max 4A","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://cdn2.aws-live-streaming.com/lsmscore/ais-monomax-4/chunks.m3u8", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
+{"name":"Max 4B", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw", "url": "https://slave02.appball.vip/hls/ch11.m3u8", "playInNatPlayer":"true"}, 
+{"name":"Max 4C", "image":"https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw", "url": "http://145.79.8.138:8080/hls/test3.m3u8", "referer": "https://dookeela.live/live", "playInNatPlayer":"true"}, 
 
-{"name": "GOAL-TH","image": "https://goal-th.com/wp-content/uploads/2023/12/AW_final_Goal-TH_Fill_1040x202-300x58.png","imageScale": "fitStart","url": "https://goal-th.com/","referer": "https://goal-th.com/","imageScale": "fitStart","online":"","info":"ตาราง ถ่ายทอดสด","userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36", "embed": "true",
-"epgId": ""},
+{"name": "Max 5","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://cdn2.aws-live-streaming.com/lsmscore/monomax-5/playlist.m3u8", "referer": "https://99dooball.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
 
-{
-
-"name": "DOOBALL FREE",
-"image": "https://dooballfree.com/wp-content/uploads/2024/02/logo-13-2.png",
-"imageScale": "fitStart",
-"url": "https://dooballfree.com/",
-"referer": "https://dooballfree.com/",
-"imageScale": "fitStart",
-"online":"",
-"info":"ตาราง ถ่ายทอดสด",
-"userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36", 
-"embed": "true",
-"epgId": ""
-},
- 
-{
-"name": "warpdooball",
-"image": "https://warpdooball.net/wp-content/uploads/2020/10/logo.png",
-"url": "https://warpdooball.net/",
-"referer": "https://warpdooball.net",
-"imageScale": "fitStart",
-"online":"",
-"info":"ตาราง ถ่ายทอดสด",
-"userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36", 
-"embed": "true",
-"epgId": ""
-},
+{"name": "Max 6","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://cdn2.aws-live-streaming.com/lsmscore/dklsport1/chunks.m3u8", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
+{"name": "Max 7","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://cdn2.aws-live-streaming.com/lsmscore/dklsport2/chunks.m3u8", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
+{"name": "Max 8","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://dolive.thaim3u.com/doolive4k-tv/siam-1/playlist.m3u8", "referer": "https://demo-live.siamzeed.com/","info":"","playInNatPlayer": "true"},
+{"name": "Max 9","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://dolive.thaim3u.com/doolive4k-tv/siam-2/playlist.m3u8", "referer": "https://demo-live.siamzeed.com/","info":"","playInNatPlayer": "true"},
+{"name": "Max 10","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://dolive.thaim3u.com/doolive4k-tv/siam-3/playlist.m3u8", "referer": "https://demo-live.siamzeed.com/","info":"","playInNatPlayer": "true"},
+{"name": "Max 11","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://dolive.thaim3u.com/doolive4k-tv/siam-4/playlist.m3u8", "referer": "https://demo-live.siamzeed.com/","info":"","playInNatPlayer": "true"},
+{"name": "Max 12","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://dolive.thaim3u.com/doolive4k-tv/siam-5/playlist.m3u8", "referer": "https://demo-live.siamzeed.com/","info":"","playInNatPlayer": "true"},
+{"name": "Max 13","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://dolive.thaim3u.com/doolive4k-tv/siam-6/playlist.m3u8", "referer": "https://demo-live.siamzeed.com/","info":"","playInNatPlayer": "true"},
+{"name": "Max 14","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://dolive.thaim3u.com/doolive4k-tv/siam-7/playlist.m3u8", "referer": "https://demo-live.siamzeed.com/","info":"","playInNatPlayer": "true"},
+{"name": "Max 15","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://dolive.thaim3u.com/doolive4k-tv/siam-8/playlist.m3u8", "referer": "https://demo-live.siamzeed.com/","info":"","playInNatPlayer": "true"},
+{"name": "Max 16","image": "https://play-lh.googleusercontent.com/EETWKeFRAi16PIhw6V_z6CrruCW7tFt0Z1bc0-KG5pnpoE0gLWIQS7xImsng_ujWoZ0=w240-h480-rw","url": "https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
 
 ]},
+
+{ "name": "BYD ThaiLeague 1","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092211-1a1c17f4-59c0-4e12-a685-2d26def6e143.png","stations": [
+
+
+{"name": "Play-Football 1","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092211-1a1c17f4-59c0-4e12-a685-2d26def6e143.png","url": "https://cdn2.aws-live-streaming.com/lsmscore/playsportsfootball1/playlist.m3u8", "referer": "https://99dooball.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Play-Football 2","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092211-1a1c17f4-59c0-4e12-a685-2d26def6e143.png","url": "https://cdn2.aws-live-streaming.com/lsmscore/playsportsfootball2/playlist.m3u8", "referer": "https://99dooball.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Play-Football 3","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092211-1a1c17f4-59c0-4e12-a685-2d26def6e143.png","url": "https://cdn2.aws-live-streaming.com/lsmscore/playsportsfootball3/playlist.m3u8", "referer": "https://99dooball.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Play-Football 4","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092211-1a1c17f4-59c0-4e12-a685-2d26def6e143.png","url": "https://cdn2.aws-live-streaming.com/lsmscore/playsportsfootball4/playlist.m3u8", "referer": "https://99dooball.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Play-Football 5","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092211-1a1c17f4-59c0-4e12-a685-2d26def6e143.png","url": "https://cdn2.aws-live-streaming.com/lsmscore/playsportsfootball5/playlist.m3u8", "referer": "https://99dooball.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+{"name": "Ballthai 2","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092211-1a1c17f4-59c0-4e12-a685-2d26def6e143.png","url": "https://dolive.thaim3u.com/doolive4k-tv/football-play-2/playlist.m3u8", "referer": "https://demo-live.siamzeed.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Ballthai 3","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092211-1a1c17f4-59c0-4e12-a685-2d26def6e143.png","url": "https://dolive.thaim3u.com/doolive4k-tv/football-play-3/playlist.m3u8", "referer": "https://demo-live.siamzeed.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Ballthai 4","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092211-1a1c17f4-59c0-4e12-a685-2d26def6e143.png","url": "https://dolive.thaim3u.com/doolive4k-tv/football-play-4/playlist.m3u8", "referer": "https://demo-live.siamzeed.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Ballthai 5","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092211-1a1c17f4-59c0-4e12-a685-2d26def6e143.png","url": "https://goal-th.com/ช่องรายการทีวี/?id=468&tv=TrueBallThai9", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Ballthai 6","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092211-1a1c17f4-59c0-4e12-a685-2d26def6e143.png","url": "https://cdn1.googlecdnforstreaming.live/live/trueballthai9/playlist.m3u8", "referer": "https://warpdooball.net/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Ballthai 7","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092211-1a1c17f4-59c0-4e12-a685-2d26def6e143.png","url": "https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai9/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+]},
+
+{ "name": "BYD ThaiLeague 2","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092220-14bce8fd-b291-4e2f-b018-ad1f2e14fce7.png","stations": [
+
+{"name": "Play-Football 6","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092220-14bce8fd-b291-4e2f-b018-ad1f2e14fce7.png","url": "https://cdn2.aws-live-streaming.com/lsmscore/playsportsfootball6/playlist.m3u8", "referer": "https://99dooball.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Play-Football 7","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092220-14bce8fd-b291-4e2f-b018-ad1f2e14fce7.png","url": "https://cdn2.aws-live-streaming.com/lsmscore/playsportsfootball7/playlist.m3u8", "referer": "https://99dooball.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Play-Football 8","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092220-14bce8fd-b291-4e2f-b018-ad1f2e14fce7.png","url": "https://cdn2.aws-live-streaming.com/lsmscore/playsportsfootball8/playlist.m3u8", "referer": "https://99dooball.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Play-Football 9","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092220-14bce8fd-b291-4e2f-b018-ad1f2e14fce7.png","url": "https://cdn2.aws-live-streaming.com/lsmscore/playsportsfootball9/playlist.m3u8", "referer": "https://99dooball.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+
+
+]},
+
+{ "name": "BYD ThaiLeague 3","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092230-164a7f3d-35a3-4cb7-9f3b-d2ba3a6b3826.png","stations": [
+
+{"name": "Ballthai 1","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092230-164a7f3d-35a3-4cb7-9f3b-d2ba3a6b3826.png","url": "https://cdn1.googlecdn.live/dooballrealtime/trueballthai9/playlist.m3u8", "referer": "https://www.dooballrealtime.com","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Ballthai 2","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092230-164a7f3d-35a3-4cb7-9f3b-d2ba3a6b3826.png","url": "https://goal-th.com/ช่องรายการทีวี/?id=468&tv=TrueBallThai9", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Ballthai 3","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092230-164a7f3d-35a3-4cb7-9f3b-d2ba3a6b3826.png","url": "https://cdn1.googlecdnforstreaming.live/live/trueballthai9/playlist.m3u8", "referer": "https://warpdooball.net/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Ballthai 4 ","image": "https://competition.tl.prod.c0d1um.io/media/tournament/thaileague_header_logo/20250801-092230-164a7f3d-35a3-4cb7-9f3b-d2ba3a6b3826.png","url": "https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai9/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+
+]},
+
+{ "name": "MEA Futsal Thaileague","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYmlG0f_pXBggCzL5x5xLwfQDcaEDZjIAYdw&s","stations": [
+{"name": "BallThai 7","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp","url": "https://cdn2.aws-live-streaming.com/lsmscore/trueballthai7/chunks.m3u8", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
+{"name": "BallThai 7","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp","url": "https://cdn1.googlecdn.live/dooballrealtime/trueballthai9/playlist.m3u8", "referer": "https://www.dooballrealtime.com","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "BallThai 7","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp","url": "https://goal-th.com/ช่องรายการทีวี/?id=466&tv=TrueBallThai7", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "BallThai 7","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp","url": "https://cdn1.googlecdnforstreaming.live/live/trueballthai7/playlist.m3u8", "referer": "https://warpdooball.net/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "BallThai 7","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp","url": "https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai7/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "BallThai 9","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp","url": "https://cdn2.aws-live-streaming.com/lsmscore/trueballthai9/chunks.m3u8", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
+{"name": "BallThai 9","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp","url": "https://cdn1.googlecdn.live/dooballrealtime/trueballthai9/playlist.m3u8", "referer": "https://www.dooballrealtime.com","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "BallThai 9","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp","url": "https://goal-th.com/ช่องรายการทีวี/?id=468&tv=TrueBallThai9", "referer": "","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "BallThai 9","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp","url": "https://cdn1.googlecdnforstreaming.live/live/trueballthai9/playlist.m3u8", "referer": "https://warpdooball.net/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "BallThai 9","image": "https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp","url": "https://cdn3.googlecdnforstreaming.live:446/24xball/trueballthai9/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+
+]},
+
+{ "name": "Bundesliga","image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/800px-Bundesliga_logo_%282017%29.svg.png","stations": [
+
+{"name": "Bein4 ","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein4", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein4 - 2","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/dooballx/bein4/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein5","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein5", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein5 - 2","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/dooballx/bein5/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein6","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png","url": "https://dookeela.live/live-tv/bein6", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein6 - 2","image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png","url": "https://cdn1.googlecdn.live/dooballx/bein6/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein7","image": "https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp","url": "https://dookeela.live/live-tv/bein7", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein7 - 2","image": "https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp","url": "https://cdn1.googlecdn.live/dooballx/bein7/chunks.m3u8", "referer": "https://dooballx.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein8","image": "https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp","url": "https://dooballkub.com/live/?bein8", "referer": "https://dooballkub.com/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein8","image": "https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp","url": "https://dookeela.live/live-tv/bein8", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein9","image": "https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp","url": "https://dookeela.live/live-tv/bein9", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "Bein10","image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_wq2jxEuzaRuEt8PFAQC3IZC8BDQA-xorwA&s","url": "https://dookeela.live/live-tv/bein10", "referer": "https://dookeela.live/","info":"VIP Gojek TV","playInNatPlayer": "true"},
+{"name": "SKY SPORT BUNDESLIGA 1","image": "https://r2.thesportsdb.com/images/media/channel/logo/Sky_Bundesliga_1.png","url": "http://norycdn.top:8080/47169803862200/31698038622129/61470", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
+{"name": "SKY SPORT BUNDESLIGA 2","image": "https://r2.thesportsdb.com/images/media/channel/logo/Sky_Bundesliga_1.png","url": "http://norycdn.top:8080/47169803862200/31698038622129/61471", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
+{"name": "SKY SPORT BUNDESLIGA 3","image": "https://r2.thesportsdb.com/images/media/channel/logo/Sky_Bundesliga_1.png","url": "http://norycdn.top:8080/47169803862200/31698038622129/61472", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
+{"name": "SKY SPORT BUNDESLIGA 4","image": "https://r2.thesportsdb.com/images/media/channel/logo/Sky_Bundesliga_1.png","url": "http://norycdn.top:8080/47169803862200/31698038622129/61473", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
+{"name": "SKY SPORT BUNDESLIGA 5","image": "https://r2.thesportsdb.com/images/media/channel/logo/Sky_Bundesliga_1.png","url": "http://norycdn.top:8080/47169803862200/31698038622129/61474", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
+{"name": "SKY SPORT BUNDESLIGA 6","image": "https://r2.thesportsdb.com/images/media/channel/logo/Sky_Bundesliga_1.png","url": "http://norycdn.top:8080/47169803862200/31698038622129/61475", "referer": "https://99dooball.com/","info":"","playInNatPlayer": "true"},
+
+
+]},
+
+
+]},
+
